@@ -1,0 +1,3 @@
+Dangerous = 'he is very bad'
+print(Dangerous)
+
